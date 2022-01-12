@@ -1,0 +1,19 @@
+[
+  {
+    "trip": "MultiTrip",
+    "origin": "PAT",
+    "destination": "BLR",
+    "destination2": "DEL"
+  },
+  {
+    "trip": "MultiTrip",
+    "origin": "DEL",
+    "destination": "PAT",
+    "destination2": "MAA"
+  },
+  {
+    "trip": "RoundTrip",
+    "origin": "PAT",
+    "destination": "HYD"
+  }
+]

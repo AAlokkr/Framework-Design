@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/825367/Intellij-Workspace/FrameworkDesign/src">
+        <classes>
+            <class name="testPackage.SampleTest">
+                <methods>
+                    <include name="testCase"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
