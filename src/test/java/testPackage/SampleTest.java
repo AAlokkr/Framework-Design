@@ -23,7 +23,6 @@ public class SampleTest extends BaseTest {
 	@BeforeTest
 	public void invokeBrowser() throws IOException {
 		driver = getDriver();
-
 	}
 
 	@Test(dataProvider="getData")
